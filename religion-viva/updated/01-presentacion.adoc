@@ -24,8 +24,10 @@ con el objetivo de hacer que esta valiosa obra sea
 algo más accesible para los lectores de hoy,
 sin cambiar el significado del autor, ni modernizar en exceso el lenguaje original.
 Todas las notas de pie de página son de Rundell,
-a menos que se etiqueten como Nota del Editor.
+a menos que se etiqueten como __Nota del Editor.__
 
+[.signed-section-signature]
 Jared Henderson
 
+[.signed-section-context-close]
 Septiembre, 2018

@@ -5,6 +5,8 @@ la voz de la magnífica gloria dio testimonio de Él diciendo: "`Este es mi Hijo
 en quien tengo complacencia; a él oíd`" (Mateo 17:5; 2 Pedro 1:17). Él,
 cuya doctrina se nos ordena oír, y por supuesto, reverentemente abrazar, declaró:
 
+[quote.scripture]
+____
 "`(Juan 3:16) Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito,
 para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.
 (3:17) Porque no envió Dios a su Hijo al mundo para condenar al mundo,
@@ -25,14 +27,14 @@ En los versículos 19 y 20, se describe más específicamente la causa de la con
 declarando que consiste en no amar,
 sino en aborrecer (lo que por supuesto incluye no creer en) la luz.
 Por lo tanto, parece que en este pasaje tan importante de la Escritura,
-la luz debe ser considerada como la manifestación
+__la luz__ debe ser considerada como la manifestación
 espiritual del Hijo de Dios en el alma del hombre,
 pues Cristo dijo:
 "`Yo soy la luz del mundo`" (Juan 8:12). La luz también puede ser considerada como uno
 de los atributos divinos que están incluidos en el nombre del Hijo de Dios.
 Al adoptar este punto de vista,
 no hay ninguna inconsistencia esencial en las diversas partes de la doctrina
-de nuestro santo Redentor respecto al objeto de la fe.
+de nuestro santo Redentor respecto al __objeto de la fe.__
 Cristo, el siempre bendito Hijo de Dios, es el objeto de la fe salvadora.
 Y esta fe, cuando surge por primera vez en el alma recién despertada, es muy pequeña,
 incluso es comparada con "`un grano de mostaza`"--y sin embargo,
@@ -43,15 +45,16 @@ y llegan a ser capaces de creer en todos los demás oficios de gracia
 de Cristo tal como se exponen en las Sagradas Escrituras,
 si tienen acceso a ese registro sagrado.
 Además, creer en "`la luz`" es un mandato expreso de nuestro Salvador en Juan 12:36.]
+____
 
 Mediante esta declaración altamente importante de nuestro santo Redentor,
 es evidente que la salvación de Dios a través de Él,
 no se limita a ninguna clase o porción particular de la humanidad;
 porque Dios amó de tal manera al mundo que dio a Su Hijo unigénito "`para que el mundo
 sea salvo por él.`" El Hijo de Dios '`gustó la muerte por todos`' (Hebreos 2:9),
-y todos los que verdadera y efectivamente creen en
-Su nombre participan de Su salvación. Ahora bien,
-el nombre del Hijo de Dios en este y en muchos otros lugares del Nuevo Testamento,
+y todos los que verdadera y efectivamente __creen en
+Su nombre__ participan de Su salvación. Ahora bien,
+el __nombre__ del Hijo de Dios en este y en muchos otros lugares del Nuevo Testamento,
 parece significar o hacer referencia a Sus atributos divinos; a saber, Su poder, vida,
 luz, etc.^
 footnote:[Ver Concordancia de Cruden bajo "`Nombre`"; también la Apología de Barclay;
@@ -118,21 +121,21 @@ la pureza, la mansedumbre y a la gentileza de Cristo.
 En medio de sus muchas pruebas,
 velando en oración y pacientemente esperando en el Señor en el espíritu,
 reciben un incremento de fuerza y son capacitados para mantenerse en el camino.
-Al continuar en pos de la luz de Cristo, en la senda de la negación a sí mismos,
-tomando la cruz cada día (Lucas 9:23), no conformándose a las vanas costumbres,
+Al continuar en pos de la luz de Cristo, en __la senda de la negación a sí mismos,
+tomando la cruz cada día__ (Lucas 9:23), no conformándose a las vanas costumbres,
 modas y máximas de este mundo, ni fijando sus afectos en las riquezas o placeres de este,
 sino apartándose y evitando todo lo que la luz manifiesta que es malo,
-estos gradualmente experimentan el progreso del nuevo nacimiento en sus almas;
+estos gradualmente experimentan el progreso del __nuevo nacimiento__ en sus almas;
 todas las cosas viejas pasan y todas son hechas nuevas
 (2 Corintios 5:17). La era del corazón,
 figurativamente hablando,
 es limpiada y la paja quemada en el '`fuego que nunca se apaga`'
 (Mateo 3:12). Habiendo recibido así a Cristo Jesús el Señor,
 Él les da "`potestad de ser hechos hijos de Dios,`" al ser dispensada
-esta gracia "`a los que creen en Su nombre`" (Juan 1:12).
+esta gracia "`a los que creen en __Su nombre__`" (Juan 1:12).
 
 La descripción anterior del comienzo y progreso de conversión,
-no pretende ser una norma exacta de los pasos por los que es conducido cada individuo,
+no pretende ser una norma exacta de los pasos por los que es conducido __cada individuo,__
 en quien esta importante obra ha sido realizada.
 El grado de depravación que ha manchado el carácter del ser humano antes de la conversión,
 es mucho más grande en algunos casos que en otros.
@@ -156,21 +159,23 @@ pero es el mismo Dios el que hace todas las cosas en todos.`"
 (1 Corintios 12:6).
 
 La anterior consideración de la fe en el nombre del Hijo de Dios,
-parece haber sido expuesta por Él,
+parece haber sido _expuesta por Él,_
 en la última parte de ese memorable pasaje de las Escrituras,
 con el que se inició este capítulo.
 Después de que nuestro santo Redentor declaró: "`El que no cree, ya ha sido condenado,
 porque no ha creído en el nombre del unigénito Hijo de Dios`" (Juan 3:18);
-procedió a señalar aún más particularmente la causa
+procedió a señalar aún más particularmente la __causa__
 de la condenación. Pues inmediatamente agregó:
 
+[quote.scripture, , Juan 3:19-21]
+____
 "`Y esta es la condenación: que la luz vino al mundo,
 y los hombres amaron más las tinieblas que la luz, porque sus obras eran malas.
 Porque todo aquel que hace lo malo, aborrece la luz y no viene a la luz,
 para que sus obras no sean reprendidas.
 Mas el que practica la verdad viene a la luz,
 para que sea manifiesto que sus obras son hechas en Dios.`"
-Juan 3: 19-21
+____
 
 De estas palabras de nuestro bendito Salvador puede deducirse,
 que aunque los profesantes Cristianos sean muy diligentes en adquirir
@@ -180,7 +185,7 @@ de los sufrimientos y muerte de nuestro Señor Jesucristo,
 si persisten en desatender y rechazar las amonestaciones de la luz,
 (que a veces brilla en sus corazones para liberarlos del poder
 del pecado y limpiarlos de su contaminación) según Su doctrina,
-no creen en Su nombre verdaderamente, y en consecuencia,
+__no creen en Su nombre__ verdaderamente, y en consecuencia,
 permanecen en estado de condenación. Sería, en efecto,
 un lamentable y peligroso engaño que personas como estas concluyeran,
 que aunque permanezcan en estado de incredulidad y desobediencia,
@@ -189,7 +194,7 @@ simplemente porque profesan una fe en Su aparición personal,
 en Sus sufrimientos y en Su muerte.
 
 En el texto citado arriba, el Salvador del mundo, brevemente,
-pero en lenguaje claro y enfático, predicó la doctrina de la luz;
+pero en lenguaje claro y enfático, __predicó la doctrina de la luz;__
 mostrando que ese don divino es abrazado y seguido por todo
 aquel que "`hace`" o camina en la senda de "`la verdad`";
 y que es aborrecido por todo el que hace mal--que lo rechaza para escapar de sus convicciones.
@@ -257,9 +262,9 @@ que todo el que cree en la luz de Cristo y camina
 en obediencia a sus manifestaciones día a día,
 participa plenamente de los beneficios procurados
 por los sufrimientos y muerte del Redentor.
-"`Si andamos en luz,`" dijo el apóstol, "`como Él está en luz,
+__"`Si andamos en luz,`"__ dijo el apóstol, "`como Él está en luz,
 tenemos comunión unos con otros,
-y la sangre de Jesucristo Su Hijo nos limpia de todo pecado`" (1 Juan 1:7). Por tanto,
+y __la sangre de Jesucristo Su Hijo nos limpia de todo pecado`"__ (1 Juan 1:7). Por tanto,
 es evidente que el ser limpiados de todo pecado por medio de la sangre de Cristo,
 es el bendito privilegio de aquellos que caminan en la luz.
 
@@ -290,7 +295,7 @@ en Su aparición en la carne, hizo y sufrió por la raza humana.
 Así, los beneficios de la '`única ofrenda`'^
 footnote:[Hebreos 10:14]
 no son despreciados,
-sino más completamente exaltados por la doctrina de la manifestación del Espíritu,
+sino __más completamente exaltados__ por la doctrina de la manifestación del Espíritu,
 o luz y gracia universales y salvadoras.
 
 Es evidente que el maligno, mediante varias estrategias,
@@ -323,7 +328,7 @@ Las cartas apostólicas también aportan un testimonio que lo corroboran,
 por los términos con los que lo describen y por los efectos que le atribuyen.
 En la epístola a los Corintios se declara que "`Dios,
 que mandó que de las tinieblas resplandeciese la luz,
-es el que resplandeció en nuestros corazones,
+__es el que resplandeció en nuestros corazones,__
 para iluminación del conocimiento de la gloria de Dios en la faz de Jesucristo.
 Pero tenemos este tesoro en vasos de barro, para que la excelencia del poder sea de Dios,
 y no de nosotros`" (2 Corintios 4:6-7). El mismo
@@ -386,7 +391,7 @@ el divino atributo de la omnisciencia.
 Ahora bien,
 aquellos que dicen que la "`palabra de Dios`" descrita en este texto es la Escritura,
 deben, por supuesto, adjudicarle este atributo (omnisciencia) a ella; pero al hacerlo,
-deberán considerar si no se están sujetando a la seria acusación de idolatrar las Escrituras.
+deberán considerar si no se están sujetando a la seria acusación de __idolatrar__ las Escrituras.
 
 El apóstol Pablo nos enseña que las Sagradas Escrituras fueron
 dadas por inspiración divina y que son "`útiles para enseñar,
@@ -426,8 +431,8 @@ puede ser justamente rechazada como falsa.
 Además,
 todo lo que haga cualquier persona que pretenda tener la
 guía del Espíritu y que sea contrario a las Escrituras,
-debe ser considerado como efecto de un engaño. Véase la Apología de Robert Barclay, Prop.
-3.]
+debe ser considerado como efecto de un engaño. Véase la [.book-title]#Apología# de
+Robert Barclay, Prop. 3.]
 
 Al publicar esta perspectiva concisa del comienzo
 y progreso de la religión viva en el alma,
@@ -451,12 +456,12 @@ también se le ruega encarecidamente recordar su propia experiencia
 en momentos pasados de seria reflexión. ¿Acaso no has sido testigo,
 al menos en alguna medida, de la verdad de las declaraciones de la Escritura,
 a la que ha sido dirigida tu atención en las páginas anteriores?
-¿No ha brillado la luz de Cristo en tu corazón? ¿No te ha despertado del estado
+__¿No ha brillado la luz de Cristo en tu corazón?__ ¿No te ha despertado del estado
 de seguridad carnal y colocado tus transgresiones en orden delante de ti,
 instándote a romper con tus pecados por medio del arrepentimiento y enmienda de vida?
 Tú puedes estar bien seguro de esta verdad,
-que no es obra del enemigo de tu alma detectar y poner al
-descubierto sus propias artimañas. Él busca más bien engañar,
+que no es obra del enemigo de tu alma __detectar y poner al
+descubierto__ sus propias artimañas. Él busca más bien engañar,
 encubrir y oscurecer sus propios caminos y cebos,
 para que no se descubra la verdadera naturaleza y hacia dónde inclinan éstos.
 Es la luz de Cristo, nuestro amado Redentor,
@@ -473,12 +478,12 @@ de corazón resulta muy opuesto a tu inclinación natural,
 como para ser considerado realmente una cruz difícil de soportar; con todo,
 recuerda quién es el que dijo: "`Y el que no lleva su cruz y viene en pos de Mí,
 no puede ser Mi discípulo`" (Lucas 14:27). Anímate, pues,
-a llevar esta cruz y fielmente seguir a Cristo en el camino de la negación al yo.
+__a llevar esta cruz__ y fielmente seguir a Cristo en el camino de la negación al yo.
 Uno de los más grandes privilegios que te ofrece la dispensación Cristiana,
 es que Él es dado como tu "`Líder,`" tu guía espiritual (Isaías 55:4),
 y si en humildad de mente obedeces las instrucciones
 de Su santa luz revelada en tu corazón,
-sigues verdaderamente a Cristo.
+__sigues verdaderamente a Cristo.__
 
 Como este es un punto importante de la doctrina Cristiana,
 el escritor se inclina a repetir la afirmación,
@@ -503,8 +508,8 @@ y así se priva de esa salvación de la que los que creen y siguen a Cristo part
 Estas posiciones son apoyadas por los textos citados al principio de este capítulo,
 tomados en relación con Juan 8:12 y 1 Juan 1:7. Un testimonio que corrobora esto aparece
 también en la siguiente declaración de gracia del Todopoderoso con respecto a Cristo,
-ya citado: "`Te di por luz de las naciones,
-para que seas mi salvación hasta lo postrero de la tierra`" (Isaías 49:6). Los que creen
+ya citado: __"`Te di por luz de las naciones,
+para que seas mi salvación hasta lo postrero de la tierra`"__ (Isaías 49:6). Los que creen
 y siguen esta Luz divina son favorecidos con la entrada a la fuente de sabiduría y fortaleza.
 A través de la fe reciben poder para cumplir sus demandas;
 y el obediente es recompensado con paz y gozo.
