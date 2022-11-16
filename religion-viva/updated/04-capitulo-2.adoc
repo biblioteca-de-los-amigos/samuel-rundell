@@ -2,18 +2,20 @@
 
 En la conversación que nuestro Señor accedió sostener con la mujer de Samaria, declaró:
 
+[quote.scripture, , Juan 4:23-24]
+____
 "`Mas la hora viene, y ahora es,
 cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad;
 porque también el Padre tales adoradores busca que le adoren.
 Dios es Espíritu; y los que le adoran, en espíritu y en verdad es necesario que adoren.`"
-Juan 4:23-24
+____
 
 En otra ocasión Él dijo: "`Nadie viene al Padre, sino por Mí`" (Juan 14:6). Y:
 "`Separados de Mí nada podéis hacer`" (Juan 15:5). Estas declaraciones claramente indican
 que la adoración a Dios bajo la dispensación Cristiana es de carácter espiritual,
 y debe ser ofrecida en verdad;
 y que no podemos ir al Padre (y ofrecerle a Él esta verdadera adoración) sino por Jesucristo,
-quien es "`el camino, y la verdad, y la vida.`"
+quien es __"`el camino, y la verdad, y la vida.`"__
 Por tanto,
 Su asistencia es comunicada a nosotros por medio
 de la influencia vivificadora de Su Espíritu Santo,
@@ -81,7 +83,7 @@ si en la simplicidad de un niño, hubieran permanecido pasivos en la mano del Se
 como la arcilla en la mano del alfarero.
 En este estado de sumisión defectuoso a la divina voluntad,
 no están en la capacidad de apreciar debidamente los beneficios
-que resultan de una fe práctica en el nombre (es decir,
+que resultan de una fe práctica __en el nombre__ (es decir,
 en el poder, vida, luz, etc.) del Hijo de Dios.
 Sus perspectivas y dependencia (al estar dirigidas al exterior)
 se limitan a una mera explicación literal de este nombre santo;
@@ -110,18 +112,18 @@ mostrándole al hombre de tiempo en tiempo su verdadera condición,
 y enseñándole directamente tanto por qué orar y cómo orar correctamente.`"
 
 Adoremos y sirvamos a Dios por medio de Él, Jesucristo, "`en novedad de espíritu,
-y no en lo antiguo de la letra`" (Romanos 7:6, RVG), creyendo en Su nombre; es decir,
+y no en lo antiguo de la letra`" (Romanos 7:6, RVG), creyendo __en Su nombre;__ es decir,
 en ese nombre que Dios ha exaltado sobre todo nombre,
 "`para que en el nombre de Jesús se doble toda rodilla de los que están en los cielos,
 y en la tierra, y debajo de la tierra; y toda lengua confiese que Jesucristo es el Señor,
-para gloria de Dios Padre`" (Filipenses 2:10-11). Si la verdadera inclinación
-ante el nombre de Jesús fuera entendida y experimentada en nuestros corazones;
+para gloria de Dios Padre`" (Filipenses 2:10-11). Si la verdadera __inclinación
+ante el nombre de Jesús__ fuera entendida y experimentada en nuestros corazones;
 si fuéramos tan humillados por Su poder como para someternos a Su gobierno,
 por muy contraria que fuera a nuestras opiniones y prácticas anteriores;
 si la realización de nuestros deberes religiosos y morales
 fueran llevados a cabo bajo Su santa influencia y control,
 entonces seríamos realmente Cristianos.
-Seríamos capaces de dirigirnos a Jesucristo en verdad como nuestro Señor;
+Seríamos capaces de dirigirnos a Jesucristo en verdad como nuestro __Señor;__
 al ser Su santa luz nuestro Líder,
 y Su santa voluntad (dada a conocer a nosotros por
 dicha luz) hecha en y por nosotros en todas las cosas.
@@ -135,7 +137,7 @@ son descalificados (mientras persistan en su desobediencia) de
 la realización de esa adoración que es en espíritu y en verdad.
 Mi propósito al desarrollar este tema,
 es mostrar la necesidad no sólo de entrar "`por la puerta estrecha,`"
-sino también de continuar "`caminando en el camino estrecho,`"
+sino también de __continuar__ "`caminando en el camino estrecho,`"
 llevando la cruz diariamente y siguiendo a Cristo;
 para que el Cristiano viajero pueda ser preservado de descansar en sus propias obras,
 confiando en una apariencia de piedad sin vida y poder.
@@ -146,9 +148,9 @@ Con el fin de poner este tema delante de ellas desde un punto de vista más clar
 se les solicita que presten seria atención a las siguientes observaciones
 cimentadas principalmente en el siguiente precepto de nuestro Redentor,
 a quien (recordémoslo siempre) nuestro Padre celestial nos ha ordenado
-oír (Mateo 17:5). "`Si alguno quiere venir en pos de mí,`" en otras palabras,
-si alguno quiere ser verdaderamente Cristiano, "`niéguese a sí mismo,
-tome su cruz cada día, y sígame`" (Lucas 9:23).
+oír (Mateo 17:5). __"`Si alguno quiere venir en pos de mí,`"__ en otras palabras,
+si alguno quiere ser verdaderamente Cristiano, __"`niéguese a sí mismo,
+tome su cruz cada día, y sígame`"__ (Lucas 9:23).
 
 Los efectos que resultan de perseverar fielmente en este camino (el cual,
 debemos reconocer, nuestro propio Salvador nos ha señalado),
@@ -218,7 +220,7 @@ Pero el enemigo, a través de la mente carnal,
 sugiere dudas sobre si este deber de velar es realmente obligatorio.
 Con el fin de desviar eficazmente a los profesantes
 de la religión de la práctica de ello,
-los impulsa a colocar la confianza en su propia sabiduría y actividad,
+los impulsa a colocar la confianza __en su propia sabiduría y actividad,__
 en lugar de someterse a un ejercicio mental que exija tal negación al yo.
 En todos los casos en que estas insinuaciones son abrazadas y seguidas,
 las secretas advertencias del Espíritu de Cristo son gradualmente desatendidas;
@@ -284,6 +286,8 @@ y con su Hijo Jesucristo`" (1 Juan 1:3).
 Volviendo a la descripción que el apóstol da de su propia experiencia ya citada,
 tengamos en cuenta lo que dice en otro lugar, de este mismo e importante tema:
 
+[quote.scripture, , Rom 6:3-6]
+____
 "`¿O no sabéis que todos los que hemos sido bautizados en Cristo Jesús,
 hemos sido bautizados en su muerte?
 Porque somos sepultados juntamente con él para muerte por el bautismo,
@@ -291,8 +295,9 @@ a fin de que como Cristo resucitó de los muertos por la gloria del Padre,
 así también nosotros andemos en vida nueva...sabiendo esto,
 que nuestro viejo hombre fue crucificado juntamente con él,
 para que el cuerpo del pecado sea destruido, a fin de que no sirvamos más al pecado.`"
-Romanos 6:3-6
+____
 
+[.no-indent]
 Al conformarse así a la doctrina de su Señor de llevar la cruz cada día,
 y al someterse al bautismo del Espíritu Santo, el apóstol fue capaz de decir:
 "`Con Cristo estoy juntamente crucificado, y ya no vivo yo,
@@ -305,7 +310,7 @@ Cristiana ofrece a la humanidad no incluyen el logro de este estado.
 Nuestro Señor Jesucristo oró al Padre no sólo en nombre de Sus seguidores inmediatos,
 sino también por aquellos que creerían en Él a través de su palabra:
 "`Para que todos sean uno; como tú, oh Padre, en mí, y yo en ti,
-que también ellos sean uno en nosotros&hellip;Yo en ellos, y Tú en Mí,`" etc.;
+que también ellos sean uno en nosotros&hellip; __Yo en ellos, y Tú en Mí,__`" etc.;
 concluyendo Su súplica (que debe leerse con reverencia y temor) con estas palabras:
 "`Y yo les he dado a conocer tu nombre, y lo daré a conocer aún;
 para que el amor con que me has amado, esté en ellos, y yo en ellos.`"
@@ -321,8 +326,8 @@ y (con respecto al ministerio) sus predicaciones también. Entonces,
 al seguir a Cristo en la regeneración (Mateo 19:28),
 serán capacitados para '`vestirse del nuevo hombre,
 que fue creado según Dios en justicia y en santidad verdadera`' (Efesios 4:24). Y llegarán
-a ser verdaderos adoradores--como los creyentes de antaño--'`adorando a Dios en espíritu,
-regocijándose en Cristo Jesús, y no teniendo confianza en la carne`' (Filipenses 3:3).
+a ser verdaderos adoradores--como los creyentes de antaño--__'`adorando a Dios en espíritu,
+regocijándose en Cristo Jesús, y no teniendo confianza en la carne`'__ (Filipenses 3:3).
 
 Las Escrituras declaran que "`todos los que son guiados por el Espíritu de Dios,
 los tales son hijos de Dios,`" (Romanos 8:14) y que "`a cada uno le es dada la
@@ -335,7 +340,7 @@ doctrinas y preceptos que nos son presentados en las Escrituras.
 Por lo tanto,
 aquellos que están en el oficio como ministros de Cristo (si son verdaderamente tales,
 y son efectivamente guiados por Su Espíritu) manifestarán,
-no sólo en sus conductas y conversaciones, sino también en sus ministerios,
+no sólo en sus conductas y conversaciones, sino también __en sus ministerios,__
 una fiel adhesión a esa porción de Su doctrina a la que ya nos hemos referido,
 en la que Él insiste en la necesidad de negar al yo, tomar la cruz cada día y seguirlo.
 
